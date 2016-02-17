@@ -1,0 +1,24 @@
+{
+  "name": "_freela-base",
+  "homepage": "https://github.com/felipefernandes/freela-base",
+  "authors": [
+    "Felipe Fernandes <ripcorp@gmail.com>"
+  ],
+  "description": "Base para projetos frontend",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "less": "^2.6.0",
+    "angular": "^1.5.0",
+    "angular-auto-validate": "^1.19.3"
+  }
+}
